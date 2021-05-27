@@ -104,8 +104,13 @@ app does not physically remove the entity.
 
 3.  Select the **Account** entity. The Account will be added to the app.
 
+![image](https://user-images.githubusercontent.com/76948308/119891210-043bc880-bf39-11eb-818d-7e5fd8159cbf.png)
+
 4.  Uncheck the **Account** entity. The Account entity will be removed from the
     application.
+    
+![image](https://user-images.githubusercontent.com/76948308/119891304-187fc580-bf39-11eb-9fb5-43d6aadfb5d8.png)
+
 
 ### Task 2 – Validate and adjust what forms and views show
 
